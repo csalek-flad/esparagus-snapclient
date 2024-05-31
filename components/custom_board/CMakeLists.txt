@@ -50,6 +50,12 @@ if(CONFIG_AUDIO_BOARD_CUSTOM)
 	list(APPEND COMPONENT_ADD_INCLUDEDIRS ./tas5805m/include)
 	list(APPEND COMPONENT_SRCS ./tas5805m/tas5805m.c)
   endif()
+
+  if(CONFIG_DAC_PT8211)
+	message(STATUS "Selected DAC is " CONFIG_DAC_PT8211)
+	list(APPEND COMPONENT_ADD_INCLUDEDIRS ./pt8211/include)
+	list(APPEND COMPONENT_SRCS ./pt8211/pt8211.c)
+  endif()
 endif()
 
 register_component()
