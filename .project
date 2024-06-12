@@ -261,25 +261,26 @@
 		<link>
 			<name>build/ide/esp_idf_components/esp_partition/partition_target.c</name>
 			<type>1</type>
-			<location>/home/carlos/espressif/idf-v4.3.5/esp-idf-v4.3.5/components/esp32/spiram_psram.c</location>
+			<location>/home/karl/espressif/esp-idf-v5.1.1/components/esp_partition/partition_target.c</location>
+
 		</link>
 		<link>
-			<name>build/ide/esp_idf_components/esp32/system_api_esp32.c</name>
+			<name>build/ide/esp_idf_components/esp_psram/mmu_psram_flash.c</name>
 			<type>1</type>
 			<location>/home/carlos/espressif/idf-v4.3.5/esp-idf-v4.3.5/components/esp32/system_api_esp32.c</location>
 		</link>
 		<link>
-			<name>build/ide/esp_idf_components/esp_adc_cal/esp_adc_cal_common.c</name>
+			<name>build/ide/esp_idf_components/esp_ringbuf/ringbuf.c</name>
 			<type>1</type>
 			<location>/home/carlos/espressif/idf-v4.3.5/esp-idf-v4.3.5/components/esp_adc_cal/esp_adc_cal_common.c</location>
 		</link>
 		<link>
-			<name>build/ide/esp_idf_components/esp_event/default_event_loop.c</name>
+			<name>build/ide/esp_idf_components/esp_system/crosscore_int.c</name>
 			<type>1</type>
-			<location>/home/carlos/espressif/idf-v4.3.5/esp-idf-v4.3.5/components/esp_event/default_event_loop.c</location>
+			<location>/home/karl/espressif/esp-idf-v5.1.1/components/esp_pm/pm_trace.c</location>
 		</link>
 		<link>
-			<name>build/ide/esp_idf_components/esp_ringbuf/ringbuf.c</name>
+			<name>build/ide/esp_idf_components/esp_system/debug_stubs.c</name>
 			<type>1</type>
 			<location>/home/carlos/espressif/idf-v4.3.5/esp-idf-v4.3.5/components/esp_ringbuf/ringbuf.c</location>
 		</link>
@@ -311,7 +312,8 @@
 		<link>
 			<name>build/ide/esp_idf_components/esp_system/freertos_hooks.c</name>
 			<type>1</type>
-			<location>/home/carlos/espressif/idf-v4.3.5/esp-idf-v4.3.5/components/esp_system/panic.c</location>
+			<location>/home/karl/espressif/esp-idf-v5.1.1/components/esp_system/freertos_hooks.c</location>
+
 		</link>
 		<link>
 			<name>build/ide/esp_idf_components/esp_system/sleep_modes.c</name>
@@ -1637,21 +1639,6 @@
 			<name>build/ide/esp_idf_components/esp_phy/src/phy_override.c</name>
 			<type>1</type>
 			<location>/home/karl/espressif/esp-idf-v5.1.1/components/esp_phy/src/phy_override.c</location>
-		</link>
-		<link>
-			<name>build/ide/esp_idf_components/hal/esp32/brownout_hal.c</name>
-			<type>1</type>
-			<location>/home/carlos/espressif/idf-v4.3.5/esp-idf-v4.3.5/components/hal/esp32/brownout_hal.c</location>
-		</link>
-		<link>
-			<name>build/ide/esp_idf_components/hal/esp32/efuse_hal.c</name>
-			<type>1</type>
-			<location>/home/carlos/espressif/idf-v4.3.5/esp-idf-v4.3.5/components/hal/esp32/efuse_hal.c</location>
-		</link>
-		<link>
-			<name>build/ide/esp_idf_components/hal/esp32/emac_hal.c</name>
-			<type>1</type>
-			<location>/home/carlos/espressif/idf-v4.3.5/esp-idf-v4.3.5/components/hal/esp32/emac_hal.c</location>
 		</link>
 		<link>
 			<name>build/ide/esp_idf_components/hal/esp32/gpio_hal_workaround.c</name>
