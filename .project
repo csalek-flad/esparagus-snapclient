@@ -279,86 +279,6 @@
 			<location>/home/carlos/espressif/idf-v4.3.5/esp-idf-v4.3.5/components/esp_event/default_event_loop.c</location>
 		</link>
 		<link>
-			<name>build/ide/esp_idf_components/esp_event/esp_event.c</name>
-			<type>1</type>
-			<location>/home/carlos/espressif/idf-v4.3.5/esp-idf-v4.3.5/components/esp_event/esp_event.c</location>
-		</link>
-		<link>
-			<name>build/ide/esp_idf_components/esp_event/esp_event_private.c</name>
-			<type>1</type>
-			<location>/home/carlos/espressif/idf-v4.3.5/esp-idf-v4.3.5/components/esp_event/esp_event_private.c</location>
-		</link>
-		<link>
-			<name>build/ide/esp_idf_components/esp_event/event_loop_legacy.c</name>
-			<type>1</type>
-			<location>/home/carlos/espressif/idf-v4.3.5/esp-idf-v4.3.5/components/esp_event/event_loop_legacy.c</location>
-		</link>
-		<link>
-			<name>build/ide/esp_idf_components/esp_event/event_send.c</name>
-			<type>1</type>
-			<location>/home/carlos/espressif/idf-v4.3.5/esp-idf-v4.3.5/components/esp_event/event_send.c</location>
-		</link>
-		<link>
-			<name>build/ide/esp_idf_components/esp_http_client/esp_http_client.c</name>
-			<type>1</type>
-			<location>/home/carlos/espressif/idf-v4.3.5/esp-idf-v4.3.5/components/esp_http_client/esp_http_client.c</location>
-		</link>
-		<link>
-			<name>build/ide/esp_idf_components/esp_hw_support/clk_ctrl_os.c</name>
-			<type>1</type>
-			<location>/home/carlos/espressif/idf-v4.3.5/esp-idf-v4.3.5/components/esp_hw_support/clk_ctrl_os.c</location>
-		</link>
-		<link>
-			<name>build/ide/esp_idf_components/esp_hw_support/compare_set.c</name>
-			<type>1</type>
-			<location>/home/carlos/espressif/idf-v4.3.5/esp-idf-v4.3.5/components/esp_hw_support/compare_set.c</location>
-		</link>
-		<link>
-			<name>build/ide/esp_idf_components/esp_hw_support/cpu_util.c</name>
-			<type>1</type>
-			<location>/home/carlos/espressif/idf-v4.3.5/esp-idf-v4.3.5/components/esp_hw_support/cpu_util.c</location>
-		</link>
-		<link>
-			<name>build/ide/esp_idf_components/esp_hw_support/regi2c_ctrl.c</name>
-			<type>1</type>
-			<location>/home/carlos/espressif/idf-v4.3.5/esp-idf-v4.3.5/components/esp_hw_support/regi2c_ctrl.c</location>
-		</link>
-		<link>
-			<name>build/ide/esp_idf_components/esp_ipc/ipc.c</name>
-			<type>1</type>
-			<location>/home/carlos/espressif/idf-v4.3.5/esp-idf-v4.3.5/components/esp_ipc/ipc.c</location>
-		</link>
-		<link>
-			<name>build/ide/esp_idf_components/esp_netif/esp_netif_defaults.c</name>
-			<type>1</type>
-			<location>/home/carlos/espressif/idf-v4.3.5/esp-idf-v4.3.5/components/esp_netif/esp_netif_defaults.c</location>
-		</link>
-		<link>
-			<name>build/ide/esp_idf_components/esp_netif/esp_netif_handlers.c</name>
-			<type>1</type>
-			<location>/home/carlos/espressif/idf-v4.3.5/esp-idf-v4.3.5/components/esp_netif/esp_netif_handlers.c</location>
-		</link>
-		<link>
-			<name>build/ide/esp_idf_components/esp_netif/esp_netif_objects.c</name>
-			<type>1</type>
-			<location>/home/carlos/espressif/idf-v4.3.5/esp-idf-v4.3.5/components/esp_netif/esp_netif_objects.c</location>
-		</link>
-		<link>
-			<name>build/ide/esp_idf_components/esp_pm/pm_impl.c</name>
-			<type>1</type>
-			<location>/home/carlos/espressif/idf-v4.3.5/esp-idf-v4.3.5/components/esp_pm/pm_impl.c</location>
-		</link>
-		<link>
-			<name>build/ide/esp_idf_components/esp_pm/pm_locks.c</name>
-			<type>1</type>
-			<location>/home/carlos/espressif/idf-v4.3.5/esp-idf-v4.3.5/components/esp_pm/pm_locks.c</location>
-		</link>
-		<link>
-			<name>build/ide/esp_idf_components/esp_pm/pm_trace.c</name>
-			<type>1</type>
-			<location>/home/carlos/espressif/idf-v4.3.5/esp-idf-v4.3.5/components/esp_pm/pm_trace.c</location>
-		</link>
-		<link>
 			<name>build/ide/esp_idf_components/esp_ringbuf/ringbuf.c</name>
 			<type>1</type>
 			<location>/home/carlos/espressif/idf-v4.3.5/esp-idf-v4.3.5/components/esp_ringbuf/ringbuf.c</location>
@@ -1717,21 +1637,6 @@
 			<name>build/ide/esp_idf_components/esp_phy/src/phy_override.c</name>
 			<type>1</type>
 			<location>/home/karl/espressif/esp-idf-v5.1.1/components/esp_phy/src/phy_override.c</location>
-		</link>
-		<link>
-			<name>build/ide/esp_idf_components/freemodbus/port/porttimer_m.c</name>
-			<type>1</type>
-			<location>/home/carlos/espressif/idf-v4.3.5/esp-idf-v4.3.5/components/freemodbus/port/porttimer_m.c</location>
-		</link>
-		<link>
-			<name>build/ide/esp_idf_components/freertos/port/port_common.c</name>
-			<type>1</type>
-			<location>/home/carlos/espressif/idf-v4.3.5/esp-idf-v4.3.5/components/freertos/port/port_common.c</location>
-		</link>
-		<link>
-			<name>build/ide/esp_idf_components/hal/esp32/adc_hal.c</name>
-			<type>1</type>
-			<location>/home/carlos/espressif/idf-v4.3.5/esp-idf-v4.3.5/components/hal/esp32/adc_hal.c</location>
 		</link>
 		<link>
 			<name>build/ide/esp_idf_components/hal/esp32/brownout_hal.c</name>
