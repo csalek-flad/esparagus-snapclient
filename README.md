@@ -1,5 +1,7 @@
 # Snapcast client for ESP32
 
+This fork is just for testing reproducibility of the builds.
+
 ### Synchronous Multiroom audio streaming client for [Snapcast](https://github.com/badaix/snapcast) ported to ESP32
 
 ## Feature list
