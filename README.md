@@ -2,6 +2,8 @@
 
 This fork is just for testing reproducibility of the builds.
 
+Attempt to kick off the build process
+
 ### Synchronous Multiroom audio streaming client for [Snapcast](https://github.com/badaix/snapcast) ported to ESP32
 
 ## Feature list
